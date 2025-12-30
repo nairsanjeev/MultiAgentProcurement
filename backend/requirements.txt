@@ -1,0 +1,18 @@
+# Microsoft Agent Framework with Azure AI integration
+# Note: --pre flag is REQUIRED while Agent Framework is in preview
+# Install with: pip install -r requirements.txt --pre
+
+agent-framework-azure-ai
+azure-ai-projects
+
+# Additional dependencies
+python-dotenv
+fastapi
+uvicorn[standard]
+gunicorn
+pydantic
+python-multipart
+PyPDF2
+pillow
+aiofiles
+httpx

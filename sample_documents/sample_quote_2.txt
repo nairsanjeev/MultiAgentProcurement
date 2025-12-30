@@ -1,0 +1,54 @@
+SUPPLIER QUOTATION
+
+From: Premium Tech Solutions
+Quote ID: PTS-2024-Q456
+Issue Date: December 5, 2024
+Valid Until: December 20, 2024
+
+Bill To:
+Your Company Name
+456 Business Ave
+Corporate City, NY 10001
+
+ITEMS QUOTED:
+
+Item 1: Microsoft Surface Pro 9
+- Description: 13" touchscreen, Intel i7, 16GB RAM, 512GB SSD
+- Quantity: 25 units
+- Unit Price: $1,899.00
+- Line Total: $47,475.00
+
+Item 2: Surface Pen
+- Description: Compatible with Surface Pro 9
+- Quantity: 25 units
+- Unit Price: $99.00
+- Line Total: $2,475.00
+
+Item 3: Surface Type Cover
+- Description: Keyboard cover, Black
+- Quantity: 25 units
+- Unit Price: $129.00
+- Line Total: $3,225.00
+
+QUOTE SUMMARY:
+Subtotal: $53,175.00
+Shipping & Handling: $150.00
+Sales Tax (7.5%): $3,988.13
+TOTAL AMOUNT DUE: $57,313.13
+
+Currency: USD
+Payment Terms: 50% deposit, balance on delivery
+Lead Time: 10-15 business days
+Shipping Method: FedEx Ground
+
+Special Notes:
+- All items include manufacturer warranty
+- Volume discount applied (5% off list price)
+- Free technical support for 90 days
+
+Premium Tech Solutions
+789 Innovation Drive
+Tech Park, CA 94043
+Tel: (555) 987-6543
+Email: enterprise@premiumtech.com
+Website: www.premiumtech.com

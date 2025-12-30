@@ -1,0 +1,37 @@
+QUOTE DOCUMENT
+
+Supplier: TechSupply Inc.
+Quote Number: Q-2024-001
+Date: December 7, 2024
+
+Items:
+1. Dell Laptop XPS 15
+   Quantity: 10 units
+   Unit Price: $1,499.00
+   Total: $14,990.00
+
+2. Logitech MX Master Mouse
+   Quantity: 10 units  
+   Unit Price: $99.00
+   Total: $990.00
+
+3. USB-C Hub Adapter
+   Quantity: 15 units
+   Unit Price: $45.00
+   Total: $675.00
+
+Subtotal: $16,655.00
+Tax (8%): $1,332.40
+Total Amount: $17,987.40
+Currency: USD
+
+Payment Terms: Net 30 days
+Delivery: 5-7 business days
+Warranty: 1 year manufacturer warranty
+
+Contact:
+TechSupply Inc.
+123 Tech Boulevard
+Silicon Valley, CA 94000
+Phone: (555) 123-4567
+Email: procurement@techsupply.com
