@@ -16,6 +16,8 @@ A comprehensive procurement acceleration application built with **Microsoft Agen
 In this demo, we will explore how the OpenAI Agent Framework can be used to build multi‑agent workflows tailored for procurement scenarios.
 In a typical procurement process, the procurement team receives a purchase requisition and must extract key details, perform competitive analysis to ensure pricing and terms are optimal, validate suppliers for compliance and risk, and ultimately create a purchase order for approval.
 This demo showcases how multiple specialized agents can collaborate to automate and streamline each of these steps, improving efficiency, accuracy, and decision‑making throughout the procurement lifecycle.
+
+
 https://github.com/user-attachments/assets/dec56b27-3f57-42d0-b74b-b6ca083cd9ef
 
 
