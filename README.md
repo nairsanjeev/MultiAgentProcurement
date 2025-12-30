@@ -12,6 +12,10 @@ A comprehensive procurement acceleration application built with **Microsoft Agen
 
 ### Technology Stack
 
+
+https://github.com/user-attachments/assets/dec56b27-3f57-42d0-b74b-b6ca083cd9ef
+
+
 **Backend:**
 - **Microsoft Agent Framework** (Python) - Multi-agent orchestration with Magentic pattern
 - **Azure OpenAI** / **Microsoft Foundry** - LLM integration
